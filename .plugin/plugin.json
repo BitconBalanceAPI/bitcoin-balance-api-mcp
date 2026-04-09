@@ -1,0 +1,9 @@
+{
+  "name": "bitcoin-balance-api",
+  "version": "1.0.0",
+  "displayName": "Bitcoin Balance API (MCP)",
+  "description": "Query Bitcoin mainnet address balances, batch balances, and UTXOs through the Model Context Protocol. Uses the same API keys and usage limits as the REST API.",
+  "homepage": "https://bitcoin-balance-api.com",
+  "documentation": "https://docs.bitcoin-balance-api.com/endpoints/mcp",
+  "license": "Proprietary"
+}

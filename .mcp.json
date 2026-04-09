@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "bitcoin-balance-api-mainnet": {
+      "url": "https://api.bitcoin-balance-api.com/mcp",
+      "headers": {
+        "X-API-Key": "YOUR_API_KEY"
+      }
+    }
+  }
+}
