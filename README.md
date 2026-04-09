@@ -31,6 +31,3 @@ Authenticate with the **`X-API-Key`** header (same key as REST `?apikey=`).
 - MCP: [docs.bitcoin-balance-api.com — MCP](https://docs.bitcoin-balance-api.com/endpoints/mcp)  
 - Swagger: [api.bitcoin-balance-api.com/docs](https://api.bitcoin-balance-api.com/docs)
 
-## Self-host (Docker)
-
-See the project [`README.md`](../README.md) for the `mcp` Compose service.
